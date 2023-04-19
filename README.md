@@ -14,6 +14,8 @@ JWT_SECRET=9d4e01674fe433e0aee3da5ea15d50dc
 ...
 Inicie o servidor de desenvolvimento abrindo no cmd e navegando na pasta raiz do projeto e use npm run start:dev ou yarn start:dev.
 
+Lembre de instalar o postgreSql e criar uma Database com o nome tasklist para criar as tabelas necessarias;
+
 Se encontrar problemas ao executar o projeto, verifique se todas as dependências foram instaladas 
 corretamente e se as variáveis de ambiente estão configuradas corretamente.
 Você também pode entrar em contato conosco para obter suporte ou fazer perguntas.
