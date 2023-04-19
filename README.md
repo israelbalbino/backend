@@ -1,3 +1,6 @@
+Tecnologias usadas:
+nodeJS/express/postgresSql
+
 Para executar o projeto localmente, siga os passos abaixo:
 Clone o repositório para sua máquina local.
 Navegue até a pasta do projeto e instale as dependências usando npm install ou yarn.
